@@ -1,3 +1,3 @@
 # Directions
 
-This repositories is just a demo.It will record my learning step.
+This repositoriy is just a demo.It will record my learning step.
